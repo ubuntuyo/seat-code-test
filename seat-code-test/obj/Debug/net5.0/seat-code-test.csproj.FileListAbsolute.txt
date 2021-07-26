@@ -1,0 +1,16 @@
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\bin\Debug\net5.0\seat-code-test.exe
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\bin\Debug\net5.0\seat-code-test.deps.json
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\bin\Debug\net5.0\seat-code-test.runtimeconfig.json
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\bin\Debug\net5.0\seat-code-test.runtimeconfig.dev.json
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\bin\Debug\net5.0\seat-code-test.dll
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\bin\Debug\net5.0\ref\seat-code-test.dll
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\bin\Debug\net5.0\seat-code-test.pdb
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.csprojAssemblyReference.cache
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.AssemblyInfoInputs.cache
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.AssemblyInfo.cs
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.dll
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\ref\seat-code-test.dll
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.pdb
+C:\Users\ubunt\source\repos\seat-code-test\seat-code-test\obj\Debug\net5.0\seat-code-test.genruntimeconfig.cache
