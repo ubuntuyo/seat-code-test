@@ -28,13 +28,13 @@ namespace seat_code_test
                 }
             }
 
-            int locationX = int.Parse(formatInput.GetValue(0).ToString());
-            int locationY = int.Parse(formatInput.GetValue(1).ToString());
+            int locationA = int.Parse(formatInput.GetValue(1).ToString());
+            int locationB = int.Parse(formatInput.GetValue(0).ToString());
             string pointinTo = formatInput.GetValue(2).ToString();
 
-            Robot r = new Robot(locationX,locationY,pointinTo);
+            Robot r = new Robot(locationA,locationB,pointinTo);
 
-            PaintMatrix(rowSize, colSize, locationX, locationY, pointinTo);
+            PaintMatrix(rowSize, colSize, locationA, locationB, pointinTo);
 
             while (!quit)
             {
@@ -69,7 +69,7 @@ namespace seat_code_test
             Console.Write("\n MATRIX:");
             Console.WriteLine("\n");
 
-            Console.WriteLine("Actual position: " + locationX + "," + locationY + " pointing to " + pointingTo+ "\n");
+            Console.WriteLine("Actual position: " + locationY + "," + locationX + " pointing to " + pointingTo+ "\n");
 
             for (int i = rowSize - 1; i >= 0 ; i--)
             {
